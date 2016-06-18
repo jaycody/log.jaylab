@@ -1,2 +1,2 @@
 # log.jaylab
-testing blog on github pages
+testing the github pages feature
