@@ -9,7 +9,7 @@
 title: log.jaylab
 email: videoalchemy@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  From dev-stuff to dad-stuff, a log for all things.
+  A log for all things, from dev-stuff to dad-stuff.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://log.jaylab.io" # the base hostname & protocol for your site
 twitter_username: chaotelab
