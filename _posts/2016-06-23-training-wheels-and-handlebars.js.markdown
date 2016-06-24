@@ -5,7 +5,9 @@ date:   2016-06-23 16:00:00 -0700
 categories: dev notes 
 ---
 
-## why do I need handlebars?
+### what are handlebars?
+
+### why do I need handlebars?
 
 
 ### notes and exercises from various tutorials: 
