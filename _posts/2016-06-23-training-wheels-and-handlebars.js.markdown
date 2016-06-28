@@ -22,6 +22,8 @@ categories: dev notes
 - use **triple-stash** to render rather than escape html tags
 - use the **registerHelper** method to create custom helper functions 
 - create custom helper with **SafeString** to render html tags w/o triple-stash
+- **SafeString** prevents string from being escaped when the template is rendered.  
+```new Handlebars.SafeString('<div>HTML Content!</div>')```
 - create custom helper with **escapeExpression** to escape a passed string, making it safe to use in the content area. 
   - Use this EVERY TIME you create a custom helper function.
 - DEFINE all helpers BEFORE calling the template with all the data
@@ -32,5 +34,27 @@ categories: dev notes
 ##### [03_vandals](http://dev.jaylab.io/handlebars/03_vandals)
 - **block helpers**
 - script id="template-foo" type="text/x-handlebars-template"
-- steps:
-  1. create the helper function 
+- alternative templates
+- steps to create **helper functions**:
+   1. extract, store, and compile the template handlebars   
+```var templateInfo = document.getElementById('the-template').innerHTML;```  
+```var template = Handlebars.compile(templateInfo);```  
+  2. Register the helper function  
+```
+Handlebars.registerHelper("makeRadio", function(name, options){  
+  //special sauce  
+});
+```
+  3. store compiled tempateInfo in templateData  
+  ```var templateData = template({});```  
+  4. put templateData into the content div    
+  ```document.getElementById("contentDiv").innerHTML += templateData;```  
+- divs and scripts in the dom
+  - ![jaylab]({{log.jaylab.io}}/assets/picts/2016_06_24-handlebars-0.jpg)  
+- handlebars in the template script
+  - ![jaylab]({{log.jaylab.io}}/assets/picts/2016_06_24-handlebars-1.jpg)  
+- helper function 
+  - ![jaylab]({{log.jaylab.io}}/assets/picts/2016_06_24-handlebars-2.jpg)  
+  
+##### [04_CB_handles](http://dev.jaylab.io/handlebars/04_CB_handles)
+- 
