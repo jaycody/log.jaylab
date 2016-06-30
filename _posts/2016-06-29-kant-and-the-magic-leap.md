@@ -40,6 +40,8 @@ Jessi's response:
 
 ![Responsive Flow Field]({{log.jaylab.io}}/assets/gifs/2011-flow_field.gif)
 
+__________________
+
 ## new and interesting stuff 
 - [Mixed Reality LightField](http://uploadvr.com/magic-leap-announces-mixed-reality-lightfield-amid-huge-funding-round/)
 - Perceptual Media 
