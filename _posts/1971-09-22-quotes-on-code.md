@@ -78,7 +78,7 @@ __________________
 - **On the agglutinative catalogue trend in literature:**
   - Whitman's use of the cumulative list is only his expression of a trend that
 has moved through a number of pieces of great literature. (p60)
-  - According to Hill's paper, "Some very good illustrations of' this trend to catalogue are found in:   
+  - According to Hill's paper, "Some very good illustrations of this trend to catalogue are found in:   
     1. Homer's Iliad   
     - (11:494-876) where the catalogue  
 of ships enumerates both sides of the forces that fought at
@@ -107,6 +107,6 @@ is an almanac-like agricultural catalogue.
 [4]: https://www.instagram.com/unspirational/
 [5]: http://ask.metafilter.com/17445/Motivational-cliches
 [6]: http://www.shmoop.com/song-of-myself/lists-catalogues-symbol.html
-[7]: ({{log.jaylab.io}}/assets/pdfs/quotes-structure_of_whitmans_SOM.pdf)
+[7]: {{log.jaylab.io}}/assets/pdfs/quotes-structure_of_whitmans_SOM.pdf
 [8]: https://www.amazon.com/Exploratory-Software-Testing-Tricks-Techniques/dp/0321636414
 [Eloquent Javascript]: http://eloquentjavascript.net/
