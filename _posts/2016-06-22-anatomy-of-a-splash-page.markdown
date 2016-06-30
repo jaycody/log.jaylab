@@ -6,7 +6,7 @@ categories: dev
 ---
 
 ### General Idea for [jaylab.io](http://jaylab.io) splash page:
-![jaylab]({{log.jaylab.io}}/assets/2016_06-jaylab_03-GIF.gif)
+![jaylab]({{log.jaylab.io}}/assets/gifs/2016_06-jaylab_03-GIF.gif)
 
 ### Steps so far:
 1. used Processing sketch to scribble 'jaylab' into a fading feedback loop
