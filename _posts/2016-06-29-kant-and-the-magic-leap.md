@@ -39,15 +39,14 @@ Jessi's response:
 ![Responsive Flow Field]({{log.jaylab.io}}/assets/gifs/2011-flow_field.gif)
 
 ## further reading:
+- see Kant's ideas on the synthetic unity of apperception in his [Critique of Pure Reason](http://files.libertyfund.org/files/1442/0330_Bk.pdf)
 
-### see Kant's ideas on the synthetic unity of apperception in his [Critique of Pure Reason](http://files.libertyfund.org/files/1442/0330_Bk.pdf)
-
-#### my simplified version of the **synthetic unity of apperception**:
+### Here's my simplified version of Kant's **synthetic unity of apperception** and how it relates to Magic Leap:
 Imagine you're standing on [Universal City's 'Colonial Street'](http://www.retroweb.com/universal_leave_it_to_beaver.html) in front of the Beaver's house, yes, the Beaver, from [Leave it to Beaver](https://www.youtube.com/watch?v=uB2CZxdqXh4).  You look up and see *a house*, the Beaver's house, but the houses on this street are not houses at all, they're hollywood facades. The process by which your mind generates *a house* from a mere facade is what Kant refers to as **the synthetic unity of apperception**. Your imagination produces for you *a house* by unifying your sensory input (the image of the facade) with your expectations and assumptions of what houses are. Your mind fills in the blanks.  
 
-I think Kant would argue that the same process was at work in Jessi Hempel's experience of a firefly landing on her finger.  Magic Leaps firefly facade landed on her finger, and Jessi's mind rushed in to synthesize a unity between her mental models and her sensations.  
+I think Kant would argue that the same process was at work in Jessi Hempel's experience of a firefly landing on her finger.  Magic Leap's firefly facade landed on her finger, and Jessi's mind rushed in to synthesize a unity between her mental models and her sensations.  
   
-#### and as brought to us by [G. J. Mattey's lecture notes on Transcendental Deduction in Kant's Critique of Pure Reason](http://hume.ucdavis.edu/mattey/phi175/trdedlec.html)
+### And for further further reading, here's a more detailed account of relevant Kant provided by [G. J. Mattey's lecture notes on Transcendental Deduction in Kant's Critique of Pure Reason](http://hume.ucdavis.edu/mattey/phi175/trdedlec.html)
 
 - **transcendental synthesis of imagination**  
 
