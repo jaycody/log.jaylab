@@ -74,7 +74,7 @@ __________________
   - the repetition of a word or phrase at the beginning of successive clauses.
 - **On the structural patterns of Song of Myself...**
   - they take their shape from the ideas they convey.
-  - see, [The Structure of Whitman's 'Song of Myself'][7], Jane Kinney Hill's master's thesis for the University of Louisville's english department, 1949
+  - see, [The Structure of Whitman's 'Song of Myself']({{log.jaylab.io}}/assets/pdfs/quotes-structure_of_whitmans_SOM.pdf), Jane Kinney Hill's master's thesis for the University of Louisville's english department, 1949
 - **On the agglutinative catalogue trend in literature:**
   - Whitman's use of the cumulative list is only his expression of a trend that
 has moved through a number of pieces of great literature. (p60)
