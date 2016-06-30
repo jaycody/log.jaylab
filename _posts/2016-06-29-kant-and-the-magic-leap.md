@@ -48,7 +48,7 @@ Jessi's response:
 - apperception
 > Kant calls self-presentation in general “apperception.” The term was originally coined by Leibniz. (See New Essays Concerning Human Understanding, where **“apperceptions” are perceptions of perceptions**, whose absence explains unperceived “little perceptions” and innate ideas.)
 
-- transcendental apperception
+- [transcendental apperception](https://en.wikipedia.org/wiki/Transcendental_apperception)
 > the self-presentation that must be capable of being attached to all my presentations is called **transcendental apperception**. It is also called “original apperception,” “for it is the self-consciousness which, because it produces the presentation I think that must be capable of accompanying all other presentations and is one and the same in all consciousness, cannot be accompanied by any further presentation” (B132). A further reason for calling this kind of apperception original is that it alone among all presentations is capable of accompanying all others.
 
 - synthetic unity of apperception (aka, **the unity of synthesis in one consciousness**)
@@ -61,6 +61,15 @@ Jessi's response:
 
 - productive imagination and figurative synthesis
 > When the figurative synthesis “concerns merely the original synthetic unity of apperception,” it is called transcendental synthesis (B151). The idea here is that if we unify times into one time, we necessarily bring it into a single consciousness. The **figurative synthesis** is the product of the imagination, which, though spontaneous, itself “belongs to sensibility” (B151). Kant sometimes refers to **the imagination in its role of carrying out the figurative synthesis as the “productive imagination,”** as opposed to the “reproductive imagination,” which is not spontaneous and follows empirical laws of association—the laws to which Hume had called attention (B152). The reproductive imagination plays no role in the transcendental deduction.
+
+- and a more general definition of [apperception](https://en.wikipedia.org/wiki/Apperception) from wikipedia
+> Apperception (from the Latin ad-, "to, toward" and percipere, "to perceive, gain, secure, learn, or feel") is any of several aspects of perception and consciousness in such fields as psychology, philosophy and epistemology.  
+...  
+In psychology, apperception is "the process by which new experience is assimilated to and transformed by the residuum of past experience of an individual to form a new whole."[1] In short, it is to perceive new experience in relation to past experience. The term is found in the early psychologies of Herbert Spencer, Hermann Lotze, and Wilhelm Wundt. It originally means passing the threshold into consciousness, i.e., to perceive. But the percept is changed when reaching consciousness due to the contextual presence of the other stuff already there, thus it is not perceived but apperceived.  
+...  
+According to Johann Friedrich Herbart apperception is that process by which an aggregate or "mass" of presentations becomes systematized (apperceptions-system) by the accretion of new elements, either sense-given or product of the inner workings of the mind. He thus emphasizes in apperception the connection with the self as resulting from the sum of antecedent experience.  
+...  
+Apperception is thus a general term for all mental processes in which a presentation is brought into connection with an already existent and systematized mental conception, and thereby is classified, explained or, in a word, understood
 
 
 
