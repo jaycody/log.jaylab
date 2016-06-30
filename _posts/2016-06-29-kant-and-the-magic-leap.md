@@ -15,11 +15,11 @@ I'm always on the lookout for confirmation of the principles underlying my mixed
 
 ![RPT]({{log.jaylab.io}}/assets/gifs/2010_11-recursion-projection-therapy-SOEX_gallery.gif)
 
-Well, today after reading Kevin Kelley's [Magic Leap article from the May 2016 issue of Wired](http://www.wired.com/2016/04/magic-leap-vr/), I spent some time checking out vids and posts about Magic Leap and mixed reality. 
+Well, today after reading Kevin Kelley's [Magic Leap article from the May 2016 issue of Wired](http://www.wired.com/2016/04/magic-leap-vr/), I spent some time checking out vids and posts about [Magic Leap] and [mixed reality]. 
 
 Peter Rubin, editor at Wired, simplifies the current state in his vid/post, [AR, VR, MR: Making Sense of Magic Leap and the Future of Reality](http://www.wired.com/2016/04/differences-between-vr-mr-ar/)
 
-But it was [Wired Magazine senior staff writer Jessi Hempel on CBS news](https://www.youtube.com/watch?v=yumCpRXouFw) that delivered the goods with a story of her experience at Magic Leap headquarters.  At 2.5 minutes into the video she describes a firefly landing on her finger:
+But it was [Wired Magazine senior staff writer Jessi Hempel on CBS news](https://www.youtube.com/watch?v=yumCpRXouFw) that delivered the goods with a story of her experience at Magic Leap's headquarters in Florida.  At 2.5 minutes into the video she describes a firefly landing on her finger:
 
 > and the crazy thing was, that I felt it....
 
@@ -87,3 +87,5 @@ Apperception is thus a general term for all mental processes in which a presenta
 
 
 
+[Magic Leap]: https://www.magicleap.com/#/home
+[Mixed Reality]: https://en.wikipedia.org/wiki/Mixed_reality
