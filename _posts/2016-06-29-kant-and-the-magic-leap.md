@@ -6,7 +6,7 @@ categories: notes
 ---
 
 ## Confirmation of Mixed Reality Therapy 
-I'm always on the lookout for confirmation of the principles underlying my mixed-reality therapy project, aka:
+I'm always on the lookout for confirmation of the principles underlying my mixed-reality therapy project, aka:  
 - [Interactive Healing Spaces](https://www.flickr.com/photos/jaycody9/albums/72157637800982304)
 - Responsive Guided Imagery
 - [Recursion Projection therapy](https://www.flickr.com/photos/jaycody9/albums/72157625517220234)
@@ -24,7 +24,7 @@ But it was [Wired Magazine senior staff writer Jessi Hempel on CBS news](https:/
 
 'Crazy' bc the firefly was a virtual object, but crazier bc, as Jessi goes on to explain, she'd lost feeling in that finger years ago in an accident.
 
-To this the show host added:
+To this, the show host added:
 
 > So your brain just thought you were feeling it.
 
@@ -41,9 +41,10 @@ Jessi's response:
 
 ### see Kant's ideas on the synthetic unity of apperception in his [Critique of Pure Reason](http://files.libertyfund.org/files/1442/0330_Bk.pdf)
 
-#### my simplified version:
-- Imagine you're standing on [Universal City's 'Colonial Street'](http://www.retroweb.com/universal_leave_it_to_beaver.html) in front of the Beaver's house, yes, the Beaver, from [Leave it to Beaver](https://www.youtube.com/watch?v=uB2CZxdqXh4).  You look up and see *a house*, the Beaver's house, but the houses on this street are not houses at all, they're hollywood facades. The process by which your mind generates *a house* from a mere facade is what Kant refers to as **the synthetic unity of apperception**. Your imagination produces for you *a house* by unifying your sensory input (the image of the facade) with your expectations and assumptions of what houses are. Your mind fills in the blanks.  
-- I think Kant would argue that the same process was at work in Jessi Hempel's experience of a firefly landing on her finger.  Magic Leaps firefly facade landed on her finger, and Jessi's mind rushed in to synthesize a unity between her mental models and her sensations.  
+#### my simplified version of the **synthetic unity of apperception**:
+Imagine you're standing on [Universal City's 'Colonial Street'](http://www.retroweb.com/universal_leave_it_to_beaver.html) in front of the Beaver's house, yes, the Beaver, from [Leave it to Beaver](https://www.youtube.com/watch?v=uB2CZxdqXh4).  You look up and see *a house*, the Beaver's house, but the houses on this street are not houses at all, they're hollywood facades. The process by which your mind generates *a house* from a mere facade is what Kant refers to as **the synthetic unity of apperception**. Your imagination produces for you *a house* by unifying your sensory input (the image of the facade) with your expectations and assumptions of what houses are. Your mind fills in the blanks.  
+
+I think Kant would argue that the same process was at work in Jessi Hempel's experience of a firefly landing on her finger.  Magic Leaps firefly facade landed on her finger, and Jessi's mind rushed in to synthesize a unity between her mental models and her sensations.  
   
 #### and as brought to us by [G. J. Mattey's lecture notes on Transcendental Deduction in Kant's Critique of Pure Reason](http://hume.ucdavis.edu/mattey/phi175/trdedlec.html)
 
