@@ -7,6 +7,7 @@ categories: notes
 
 ## Confirmation of Mixed Reality Therapy 
 I'm always on the lookout for confirmation of the principles underlying my mixed-reality therapy project, aka:  
+
 - [Interactive Healing Spaces](https://www.flickr.com/photos/jaycody9/albums/72157637800982304)
 - Responsive Guided Imagery
 - [Recursion Projection therapy](https://www.flickr.com/photos/jaycody9/albums/72157625517220234)
