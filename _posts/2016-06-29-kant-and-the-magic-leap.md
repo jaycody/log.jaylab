@@ -19,6 +19,8 @@ Well, today after reading Kevin Kelley's [Magic Leap article from the May 2016 i
 
 Peter Rubin, editor at Wired, simplifies the current state in his vid/post, [AR, VR, MR: Making Sense of Magic Leap and the Future of Reality](http://www.wired.com/2016/04/differences-between-vr-mr-ar/)
 
+And here are the guys from Magic Leap and ILMxLAB talking about [The Dawn of Mixed Reality](https://www.youtube.com/watch?v=iTqF3w2yrZI)
+
 But it was [Wired Magazine senior staff writer Jessi Hempel on CBS news](https://www.youtube.com/watch?v=yumCpRXouFw) that delivered the goods with a story of her experience at Magic Leap's headquarters in Florida.  At 2.5 minutes into the video she describes a firefly landing on her finger:
 
 > and the crazy thing was, that I felt it....
