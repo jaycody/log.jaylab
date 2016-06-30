@@ -40,9 +40,10 @@ Jessi's response:
 
 ![Responsive Flow Field]({{log.jaylab.io}}/assets/gifs/2011-flow_field.gif)
 
-## new stuff 
+## new and interesting stuff 
 - [Mixed Reality LightField](http://uploadvr.com/magic-leap-announces-mixed-reality-lightfield-amid-huge-funding-round/)
 - Perceptual Media 
+- [Hyper-Reality](https://vimeo.com/166807261) this vid 'presents a provocative and kaleidoscopic new vision of the future, where physical and virtual realities have merged, and the city is saturated in media.''
 
 ## further reading:
 - see Kant's ideas on the synthetic unity of apperception in his [Critique of Pure Reason](http://files.libertyfund.org/files/1442/0330_Bk.pdf)
