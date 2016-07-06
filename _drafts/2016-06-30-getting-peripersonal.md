@@ -1,3 +1,14 @@
+---
+layout: post
+title:  "The Magnetic Touch Illusion"
+date:   2016-06-29 16:00:00 -0700
+categories: notes 
+---
+
+## The Magnetic Touch Illusion
+This week, Karolinska Institutet's Department of Neuroscience published a paper about the mechanisms and manipulation of **bodily self-attribution**
+multisensory integration within peripersonal space underlies bodily self-attribution.**  
+Furthermore, we propose that **the magnetic touch illusion constitutes a perceptual correlate of visuotactile integration in peripersonal space.**
 
 
 ### Abstract from The Magnetic Touch Illusion 
